@@ -1,0 +1,12 @@
+{
+  "name": "isochromium",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "chrome-aws-lambda": "^10.2.0",
+    "puppeteer-core": "^10.2.0"
+  }
+}
